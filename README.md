@@ -1,5 +1,5 @@
 
-# AI-Powered Personal Finance Tracker (MERN)
+ Personal Finance Tracker (MERN)
 
 This project is a minimal, opinionated MERN stack app with a simple AI component for auto-categorizing expenses using a Naive Bayes classifier (via the `natural` npm package).
 
